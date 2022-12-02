@@ -4,7 +4,7 @@ https://adventofcode.com/2022
 
 
 **Day 1** - [Calorie Counting](./day01/solution.py)<br>
-**Day 2**<br>
+**Day 2** - [Rock Paper Scissors](./day02/solution.py)<br>
 **Day 3**<br>
 **Day 4**<br>
 **Day 5**<br>
